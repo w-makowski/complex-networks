@@ -8,10 +8,12 @@ dependencies = [
     "jupyter>=1.1.1",
     "matplotlib>=3.10.8",
     "ndlib>=5.1.1",
+    "networkit>=11.2.1",
     "networkx>=3.6.1",
     "notebook>=7.5.4",
     "pandas>=3.0.1",
     "pygraphviz>=1.14",
+    "scikit-learn>=1.8.0",
     "scipy>=1.17.1",
     "seaborn>=0.13.2",
 ]
